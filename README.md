@@ -1,1 +1,1 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=200&amp;section=header&amp;text=2klips&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;&amp;descAlignY=51&amp;descAlign=62" style="max-width: 80%;">
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=240&amp;section=header&amp;text=2klips&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;&amp;descAlignY=51&amp;descAlign=62" style="max-width: 80%;">
