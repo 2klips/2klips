@@ -81,6 +81,8 @@
   
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+[Notion 바로가기](https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4)
+
 </div>
 <div align="center>
 
