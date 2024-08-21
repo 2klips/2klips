@@ -84,11 +84,20 @@
 [Notion 바로가기](https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4)
 
 </div>
-<div align="center>
 
+<br>
 
+<br>
 
+<div align="center">
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2klips&layout=compact&theme=tokyonight)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2klips&show_icons=true&theme=tokyonight)
+
+</div>
+
+<hr>
 
 
 
