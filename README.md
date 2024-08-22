@@ -1,10 +1,14 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=auto&amp;height=240&amp;section=header&amp;text=2klips&amp;fontSize=90&amp;animation=fadeIn&amp;fontAlignY=38&amp;&amp;descAlignY=51&amp;descAlign=62" style="max-width: 80%;">
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=240&section=header&text=2klips%20&fontSize=50&fontColor=ffffff" alt="header" />
+</p>
+
+
+
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2klips&show_icons=true&theme=radical) -->
 
 <div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alkatra&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+2klips's%20Github!" alt="Typing SVG" /></a>  
   
 ### 2klips 이현우's Github
 
@@ -96,9 +100,8 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2klips&show_icons=true&theme=tokyonight)
 
 </div>
-
-<hr>
-
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=100&section=footer" alt="footer" />
+</p>
 
 
