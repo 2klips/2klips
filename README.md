@@ -27,76 +27,86 @@
   
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-[스터딩 Notion 바로가기](https://glowing-hardcover-f38.notion.site/b01372b8f80b4566a2dbbcd6b79feaa5?v=5e2e36aabc61493f8ae3fbb086f0071e&pvs=4)
-
-[이력서 Notion 바로가기](https://glowing-hardcover-f38.notion.site/ae343fb8391b42d485ab929327244aff?pvs=4)
+[Portfolio Notion 바로가기](https://glowing-hardcover-f38.notion.site/ae343fb8391b42d485ab929327244aff?pvs=4)
 </div>
 
 <br>
 
-<div align="center">
-  
   # *📌Project Portfolio*
-  
-</div>
 
 <br>
 
 ### **의사소통Chatbot - ai의사에게 채팅으로 받는 진료상담 App**
+**[의사소통 AI챗봇](https://github.com/2klips/DoctorChatBot-front)**
 
-> - GPT-NeoX 기반의 Polygloy-ko 모델을 사용, 파인튜닝을 진행한 자연어처리 ai챗봇 모델
-> - 채팅을 통해, 증상을 얘기하면 간단한 진료를 진행해주는 챗봇
-> - Android, React, Python ..
-
-https://github.com/2klips/DoctorChatBot-front
-
-<br>
-
-<div align="center">
+<details>
+   <summary>펼치기/접기</summary>
   
- ![의사소통 - 기획서 초안 (1)](https://github.com/user-attachments/assets/f9f91e77-eb80-40d2-96bd-93290fb03247)
-
-</div>
-
-<br>
-
-### **PlanUp - 취준생들을 위한, 구직 플래너 App**
-### **[ 고용노동부 공공데이터 공모전 참가 - 서비스 개발부문 1차 합격 ]**
-
-> - 캘린더 기능을 통한 일정관리
-> - 구직사이트의 취업공고를 크롤링하여, 일정에 저장
-> - 자격증 시험 일정 Api를 통해 자격증 시험 검색 및 시험일정 등록
-> - Android, React, Python, Nodejs, FastApi
-
-<br>
-
-https://github.com/2klips/PlanUp_front
-
-<br>
-
-<div align="center">
+  > - GPT-NeoX 기반의 Polygloy-ko 모델을 사용, 파인튜닝을 진행한 자연어처리 ai챗봇 모델
+  > - 채팅을 통해, 증상을 얘기하면 간단한 진료를 진행해주는 챗봇
+  > - Android, React, Python ..
   
- ![Planup_main](https://github.com/user-attachments/assets/4ff188da-f043-4f5f-b726-104a0ded24aa)
-
-</div>
-
-<br>
-
-### **CleanEat - 깨끗한 먹거리의 시작 [ Web 프로젝트 ]**
-### **[ 서울시 공공데이터 공모전 참가 ]**
-
-> - KaKaoMap을 기반으로, 음식점의 위생등급 및 모범음식점 확인서비스
-> - HTML + JavaScript 
-
-https://github.com/2klips/CleanEat-web_project
-
-<br>
-
-<div align="center">
+  https://github.com/2klips/DoctorChatBot-front
   
-![cleaneat_main](https://github.com/user-attachments/assets/839ffadf-d5e6-4ac1-93da-6c2ba4c52517)
+  <br>
+  
+  <div align="center">
+    
+   ![의사소통 - 기획서 초안 (1)](https://github.com/user-attachments/assets/f9f91e77-eb80-40d2-96bd-93290fb03247)
+  
+  </div>
 
-</div>
+</details>
+
+<br>
+
+### **PlanUp - 취준생들을 위한, 구직 플래너 App [ 고용노동부 공공데이터 공모전 참가 - 서비스 개발부문 1차 합격 ]**
+**[PLAN UP](https://github.com/2klips/PlanUp_front)**  
+
+<details>
+   <summary>펼치기/접기</summary>
+  
+  > - 캘린더 기능을 통한 일정관리
+  > - 구직사이트의 취업공고를 크롤링하여, 일정에 저장
+  > - 자격증 시험 일정 Api를 통해 자격증 시험 검색 및 시험일정 등록
+  > - Android, React, Python, Nodejs, FastApi
+  
+  <br>
+  
+  https://github.com/2klips/PlanUp_front
+  
+  <br>
+  
+  <div align="center">
+    
+   ![Planup_main](https://github.com/user-attachments/assets/4ff188da-f043-4f5f-b726-104a0ded24aa)
+  
+  </div>
+
+</details>
+
+<br>
+
+### **CleanEat - 깨끗한 먹거리의 시작 [ Web 프로젝트 ][ 서울시 공공데이터 공모전 참가 ]**
+**[CleanEat](https://github.com/user-attachments/assets/839ffadf-d5e6-4ac1-93da-6c2ba4c52517)**  
+
+<details>
+   <summary>펼치기/접기</summary>
+
+  
+  > - KaKaoMap을 기반으로, 음식점의 위생등급 및 모범음식점 확인서비스
+  > - HTML + JavaScript 
+  
+  https://github.com/2klips/CleanEat-web_project
+  
+  <br>
+  
+  <div align="center">
+    
+  ![cleaneat_main](https://github.com/user-attachments/assets/839ffadf-d5e6-4ac1-93da-6c2ba4c52517)
+  
+  </div>
+</details>
 
 
 
@@ -104,7 +114,7 @@ https://github.com/2klips/CleanEat-web_project
 
 <br>
 
-<h1 align="center">✨ Skills ✨</h1>
+<h1>✨ Skills ✨</h1>
 
 <p>  
 
