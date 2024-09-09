@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=240&section=header&text=2klips%20&fontSize=50&fontColor=ffffff" alt="header" />
-</p>
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=100)
+  
+</div>
 
 
 
