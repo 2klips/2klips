@@ -122,13 +122,12 @@ https://github.com/2klips/CleanEat-web_project
 
 <br>
 
+
 <div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2klips&layout=compact&theme=tokyonight)
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=2klips&show_icons=true&theme=tokyonight)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=2klips&theme=transparent&show_icons=true&&hide_border=true" alt="GitHub stats" style="width: 54%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2klips&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" style="width: 45%;">
 </div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7f50,100:1e90ff&height=100&section=footer" alt="footer" />
 </p>
