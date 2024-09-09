@@ -19,6 +19,11 @@
   
 ### 2klips 이현우's Github
 
+<p align="center">
+  <strong>AI 기반 챗봇 및 OCR 개발 전문가 과정</strong><br>
+  <strong>2024-03-08 ~ 2024-09-06 (6개월간)</strong><br>
+</p>
+
 </div>
 
 <br>
@@ -33,6 +38,30 @@
 <br>
 
   # *📌Project Portfolio*
+
+### **Motorshot - 오토바이 핼멧미착용, 위험운전 탐지 CV프로젝트 App**
+**[Motorshot](https://github.com/2klips/MotorShot)**
+
+<details>
+   <summary>펼치기/접기</summary>
+  
+  > - Yolov8을 기반으로 학습한 분석 model
+  > - 오토바이 운전자 이미지, 동영상 캡쳐등을 통해 Dataset 제작
+  > - 동영상을 분석하여, 운전자의 헬멧 착용 여부, 위험운전(wheelie, danger conering..) 감지 
+  > - React, Python ..
+  
+  https://github.com/2klips/MotorShot
+  
+  <br>
+  
+  <div align="center">
+    
+   ![image](https://github.com/user-attachments/assets/7180a8aa-7471-4042-b768-b36ff2c882d0)
+
+  
+  </div>
+
+</details>
 
 <br>
 
