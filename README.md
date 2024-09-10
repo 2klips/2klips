@@ -17,11 +17,16 @@
 
 <div align="center">
   
-### 2klips 이현우's Github
+### 안녕하세요! 신입 AI개발자 이현우입니다!
 
 <p align="center">
-  <strong>AI 기반 챗봇 및 OCR 개발 전문가 과정</strong><br>
+  <strong>* AI 기반 챗봇 및 OCR 개발 전문가 과정</strong><br>
   <strong>2024-03-08 ~ 2024-09-06 (6개월간)</strong><br>
+  <br>
+  * 고려사이버대학교 미래학부 - AI인공지능 개발 및 빅데이터<br>
+  2024-09 ~ (재학중)<br>
+  <br>
+  📅 1996. 10. 29 | 📧 axz1420@naver.com | 📞 010.8622.5110 
 </p>
 
 </div>
