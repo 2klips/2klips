@@ -122,7 +122,7 @@
 <br>
 
 ### **CleanEat - 깨끗한 먹거리의 시작 [ Web 프로젝트 ][ 서울시 공공데이터 공모전 참가 ]**
-**[CleanEat](https://github.com/user-attachments/assets/839ffadf-d5e6-4ac1-93da-6c2ba4c52517)**  
+**[CleanEat](https://github.com/2klips/CleanEat-web_project)**  
 
 <details>
    <summary>펼치기/접기</summary>
